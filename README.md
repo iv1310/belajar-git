@@ -231,3 +231,4 @@ Selanjutnya, Git memiliki 3 keadaan utama dimana berkas berada: committed, modif
 ## Referensi
 1. [Git documentation](https://git-scm.com/doc)
 2. [Petanikode](https://www.petanikode.com/tutorial/git/)
+3. 
